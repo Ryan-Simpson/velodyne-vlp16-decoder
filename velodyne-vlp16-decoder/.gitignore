@@ -1,7 +1,0 @@
-__pycache__/
-*.pyc
-*.pcap
-*.bag
-.env
-venv/
-*.png
